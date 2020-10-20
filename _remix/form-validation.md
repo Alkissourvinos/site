@@ -16,5 +16,5 @@ tags:
   (<a href='https://codepen.io/mibook'>@mibook</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
-(Η λυση της){https://codepen.io/p2018028/pen/eYzzogQ}
+Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. <br>
+[Η λυση της](https://codepen.io/p2018028/pen/eYzzogQ)
