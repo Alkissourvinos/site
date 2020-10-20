@@ -17,3 +17,4 @@ tags:
 </iframe>
 
 Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
+(Η λυση της){https://codepen.io/p2018028/pen/eYzzogQ}
