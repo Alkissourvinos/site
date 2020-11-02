@@ -18,3 +18,4 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Αλλάξτε το χρώμα ή/και το ύψος των στοιχείων της λίστας καθώς και την απόσταση μεταξύ τους
+<br> [Η λύση της](https://codepen.io/p2018028/pen/PozegXw)
