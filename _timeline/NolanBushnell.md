@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: NolanBushnell 
-image_url: NolanBushnell.jpg
+image_url: /images/NolanBushnell.jpg
 caption: Μετά την δημιουργία του πρώτου βιντεοπαιχνιδίου οι πορεία τους ακολούθησε μια εκθετική άνοδο και σύντομα τα μηχανήματα που ονομάζονται arcade σταμάτησαν να φιλοξενούν παιχνίδια, με διαδοχούς τους τους υπολογιστές γραφείου
 event:
   - spacewar-players
