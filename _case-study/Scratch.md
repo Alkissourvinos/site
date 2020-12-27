@@ -21,4 +21,4 @@ gallery:
 
 {% include gallery %} 
 
-{% include extras/cs-scratch.md %}
+
