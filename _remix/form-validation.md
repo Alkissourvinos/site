@@ -19,9 +19,4 @@ tags:
 Λύση:
 
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p2018028" data-slug-hash="eYzzogQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form Validation">
-  <span>See the Pen <a href="https://codepen.io/p2018028/pen/eYzzogQ">
-  Form Validation</a> by p2018028 (<a href="https://codepen.io/p2018028">@p2018028</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="265" style="width: 100%;" scrolling="no" title="Form Validation" src="https://codepen.io/p2018028/pen/eYzzogQ?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"> See the Pen Form Validation by mibook (@mibook) on CodePen. </iframe>
