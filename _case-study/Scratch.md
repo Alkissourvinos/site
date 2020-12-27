@@ -20,3 +20,4 @@ gallery:
 
 
 {% include gallery %}
+{% include extras/cs-Scratch.md %}
