@@ -9,7 +9,6 @@ events:
   - computer-space
   - atari-adventure
   - pong
-  - printed-code
   - pet-lander
   - rockys-boots
   - pop
