@@ -21,7 +21,7 @@ tags:
 
 Λυση: <br>
 
-<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="html,result" data-user="p2018028" data-slug-hash="PozegXw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Sortable List">
+<p class="codepen" data-height="350" data-theme-id="dark" data-default-tab="html,result" data-user="p2018028" data-slug-hash="PozegXw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Sortable List">
   <span>See the Pen <a href="https://codepen.io/p2018028/pen/PozegXw">
   Sortable List</a> by p2018028 (<a href="https://codepen.io/p2018028">@p2018028</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
