@@ -16,7 +16,7 @@ name                     : "pibook"
 description              : "Programming Interactivity Greek Book."
 url                      : "https://pibook.epidro.me"
 baseurl                  : ""
-repository               : "epidrome/pibook"
+repository               : "Alkissourvinos/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -65,14 +65,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://www.epidro.me"
+  home             : "https://hci-p2018028.netlify.app/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "epidrome"
+  github           : "Alkissourvinos"
   gitlab           :
   google_plus      :
   keybase          :
