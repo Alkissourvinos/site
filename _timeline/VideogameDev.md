@@ -1,13 +1,14 @@
 ---
 layout: timeline 
-title: NolanBushnell 
-image_url: /images/NolanBushnell.jpg
+title: Η ανάπτυξη των Βιντεοπαιχνιδιών 
+image_url: /images/Nolan-Bushnell.jpg
 caption: Μετά την δημιουργία του πρώτου βιντεοπαιχνιδίου οι πορεία τους ακολούθησε μια εκθετική άνοδο και σύντομα τα μηχανήματα που ονομάζονται arcade σταμάτησαν να φιλοξενούν παιχνίδια, με διαδοχούς τους τους υπολογιστές γραφείου
-event:
+events:
   - spacewar-players
+  - NolanBushnell
+  - computer-space
   - atari-adventure
   - pong
-  - atari-adventure
   - printed-code
   - pet-lander
   - rockys-boots
