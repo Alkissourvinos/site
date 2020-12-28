@@ -21,6 +21,9 @@ tags:
 
 Λυση: <br>
 
-<p data-height="350" data-theme-id="0" data-slug-hash="xPrgpV" data-default-tab="result" data-user="p2018028" class='codepen'>See the Pen <a href='https://codepen.io/p2018028/pen/PozegXw'>PozegXw</a> by p2018028 (<a href='https://codepen.io/p2018028'>@p2018028</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="p2018028" data-slug-hash="PozegXw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Sortable List">
+  <span>See the Pen <a href="https://codepen.io/p2018028/pen/PozegXw">
+  Sortable List</a> by p2018028 (<a href="https://codepen.io/p2018028">@p2018028</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
