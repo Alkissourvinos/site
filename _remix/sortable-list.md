@@ -21,6 +21,6 @@ tags:
 
 Λυση: <br>
 
-<p data-height="350" data-theme-id="0" data-slug-hash="xPrgpV" data-default-tab="result" data-user="p2018028" class='codepen'>See the Pen <a href='https://codepen.io/p2018028/pen/PozegXw'>xPrgpV</a> by evabat (<a href='https://codepen.io/p2018028'>@evabat</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
+<p data-height="350" data-theme-id="0" data-slug-hash="xPrgpV" data-default-tab="result" data-user="p2018028" class='codepen'>See the Pen <a href='https://codepen.io/p2018028/pen/PozegXw'>xPrgpV</a> by p2018028 (<a href='https://codepen.io/p2018028'>@p2018028</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
