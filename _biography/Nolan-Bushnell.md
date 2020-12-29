@@ -12,7 +12,7 @@ tags:
   - Atari
   - ComputerSpace
   - SpaceWar
-  - Commodore 64
+  - Magnavox-Odyssey
 ---
 
 {% include_relative bio-Bushnell.md %}
